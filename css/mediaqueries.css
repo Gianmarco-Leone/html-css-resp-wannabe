@@ -20,3 +20,12 @@
         align-items: center;
     }
 }
+
+/* BONUS */
+
+@media screen and (max-width:1140px) {
+    .container {
+        max-width: 1140px;
+        width: 100%;
+    }    
+}
