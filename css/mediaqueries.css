@@ -19,6 +19,16 @@
         flex-direction: column;
         align-items: center;
     }
+
+    .why-us {
+        background-color: #222;
+        padding-top: 3rem;
+        margin-bottom: 0;
+    }
+
+    .steps {
+        margin-bottom: 0;
+    }
 }
 
 /* BONUS */
